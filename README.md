@@ -3,7 +3,7 @@
 ## Part 1
 #### Getting started with programming
 1. [ ] Quiz: Initial course questionnaire
-2. [ ] Programming exercise: Sandbox
+2. [x] Programming exercise: Sandbox
 3. [ ] Quiz: What does the program print?
 #### Printing
 1. [ ] Programming exercise: Ada Lovelace
