@@ -6,7 +6,7 @@
 2. [x] Programming exercise: Sandbox
 3. [ ] Quiz: What does the program print?
 #### Printing
-1. [ ] Programming exercise: Ada Lovelace
+1. [x] Programming exercise: Ada Lovelace
 2. [ ] Programming exercise: Once Upon a Time
 3. [ ] Programming exercise: Dinosaur
 #### Reading input
