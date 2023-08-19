@@ -7,7 +7,7 @@
 3. [ ] Quiz: What does the program print?
 #### Printing
 1. [x] Programming exercise: Ada Lovelace
-2. [ ] Programming exercise: Once Upon a Time
+2. [x] Programming exercise: Once Upon a Time
 3. [ ] Programming exercise: Dinosaur
 #### Reading input
 1. [ ] Programming exercise: Message
