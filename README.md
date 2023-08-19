@@ -8,7 +8,7 @@
 #### Printing
 1. [x] Programming exercise: Ada Lovelace
 2. [x] Programming exercise: Once Upon a Time
-3. [ ] Programming exercise: Dinosaur
+3. [x] Programming exercise: Dinosaur
 #### Reading input
 1. [ ] Programming exercise: Message
 2. [ ] Programming exercise: Hi Ada Lovelace!
