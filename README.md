@@ -11,7 +11,7 @@
 3. [x] Programming exercise: Dinosaur
 #### Reading input
 1. [x] Programming exercise: Message
-2. [ ] Programming exercise: Hi Ada Lovelace!
+2. [x] Programming exercise: Hi Ada Lovelace!
 3. [ ] Programming exercise: Message Three Times
 4. [ ] Programming exercise: Greeting
 5. [ ] Programming exercise: Conversation
