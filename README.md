@@ -12,7 +12,7 @@
 #### Reading input
 1. [x] Programming exercise: Message
 2. [x] Programming exercise: Hi Ada Lovelace!
-3. [ ] Programming exercise: Message Three Times
+3. [x] Programming exercise: Message Three Times
 4. [ ] Programming exercise: Greeting
 5. [ ] Programming exercise: Conversation
 6. [ ] Programming exercise: Story
