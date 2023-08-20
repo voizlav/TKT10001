@@ -10,7 +10,7 @@
 2. [x] Programming exercise: Once Upon a Time
 3. [x] Programming exercise: Dinosaur
 #### Reading input
-1. [ ] Programming exercise: Message
+1. [x] Programming exercise: Message
 2. [ ] Programming exercise: Hi Ada Lovelace!
 3. [ ] Programming exercise: Message Three Times
 4. [ ] Programming exercise: Greeting
