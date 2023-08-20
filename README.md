@@ -15,7 +15,7 @@
 3. [x] Programming exercise: Message Three Times
 4. [x] Programming exercise: Greeting
 5. [x] Programming exercise: Conversation
-6. [ ] Programming exercise: Story
+6. [x] Programming exercise: Story
 #### Variables
 1. [ ] Quiz: Media and technology use questionnaire
 2. [ ] Programming exercise: Various Variables
