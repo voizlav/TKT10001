@@ -14,7 +14,7 @@
 2. [x] Programming exercise: Hi Ada Lovelace!
 3. [x] Programming exercise: Message Three Times
 4. [x] Programming exercise: Greeting
-5. [ ] Programming exercise: Conversation
+5. [x] Programming exercise: Conversation
 6. [ ] Programming exercise: Story
 #### Variables
 1. [ ] Quiz: Media and technology use questionnaire
