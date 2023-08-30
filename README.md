@@ -18,7 +18,7 @@
 6. [x] Programming exercise: Story
 #### Variables
 1. [ ] Quiz: Media and technology use questionnaire
-2. [ ] Programming exercise: Various Variables
+2. [x] Programming exercise: Various Variables
 3. [ ] Programming exercise: Integer Input
 4. [ ] Programming exercise: Double Input
 5. [ ] Programming exercise: Boolean Input
