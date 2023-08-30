@@ -20,7 +20,7 @@
 1. [ ] Quiz: Media and technology use questionnaire
 2. [x] Programming exercise: Various Variables
 3. [x] Programming exercise: Integer Input
-4. [ ] Programming exercise: Double Input
+4. [x] Programming exercise: Double Input
 5. [ ] Programming exercise: Boolean Input
 6. [ ] Programming exercise: Different Types of Input
 #### Calculating with numbers
