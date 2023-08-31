@@ -21,7 +21,7 @@
 2. [x] Programming exercise: Various Variables
 3. [x] Programming exercise: Integer Input
 4. [x] Programming exercise: Double Input
-5. [ ] Programming exercise: Boolean Input
+5. [x] Programming exercise: Boolean Input
 6. [ ] Programming exercise: Different Types of Input
 #### Calculating with numbers
 1. [ ] Programming exercise: Seconds in a day
