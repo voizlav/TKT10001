@@ -24,7 +24,7 @@
 5. [x] Programming exercise: Boolean Input
 6. [x] Programming exercise: Different Types of Input
 #### Calculating with numbers
-1. [ ] Programming exercise: Seconds in a day
+1. [x] Programming exercise: Seconds in a day
 2. [ ] Quiz: What does the program print?
 3. [ ] Quiz: Expressions and variable value
 4. [ ] Programming exercise: Sum of two numbers
