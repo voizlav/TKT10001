@@ -26,7 +26,7 @@
 #### Calculating with numbers
 1. [x] Programming exercise: Seconds in a day
 2. [x] Quiz: What does the program print?
-3. [ ] Quiz: Expressions and variable value
+3. [x] Quiz: Expressions and variable value
 4. [ ] Programming exercise: Sum of two numbers
 5. [ ] Programming exercise: Sum of three numbers
 6. [ ] Programming exercise: Addition formula
