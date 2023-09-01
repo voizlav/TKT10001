@@ -28,7 +28,7 @@
 2. [x] Quiz: What does the program print?
 3. [x] Quiz: Expressions and variable value
 4. [x] Programming exercise: Sum of two numbers
-5. [ ] Programming exercise: Sum of three numbers
+5. [x] Programming exercise: Sum of three numbers
 6. [ ] Programming exercise: Addition formula
 7. [ ] Programming exercise: Multiplication formula
 8. [ ] Programming exercise: Average of two numbers
