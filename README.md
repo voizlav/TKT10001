@@ -31,7 +31,7 @@
 5. [x] Programming exercise: Sum of three numbers
 6. [x] Programming exercise: Addition formula
 7. [x] Programming exercise: Multiplication formula
-8. [ ] Programming exercise: Average of two numbers
+8. [x] Programming exercise: Average of two numbers
 9. [ ] Programming exercise: Average of three numbers
 10. [ ] Quiz: Division
 11. [ ] Programming exercise: Simple calculator
