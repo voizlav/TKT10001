@@ -32,7 +32,7 @@
 6. [x] Programming exercise: Addition formula
 7. [x] Programming exercise: Multiplication formula
 8. [x] Programming exercise: Average of two numbers
-9. [ ] Programming exercise: Average of three numbers
+9. [x] Programming exercise: Average of three numbers
 10. [ ] Quiz: Division
 11. [ ] Programming exercise: Simple calculator
 12. [ ] Quiz: Copying variable value
