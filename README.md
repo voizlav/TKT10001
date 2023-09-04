@@ -34,7 +34,7 @@
 8. [x] Programming exercise: Average of two numbers
 9. [x] Programming exercise: Average of three numbers
 10. [x] Quiz: Division
-11. [ ] Programming exercise: Simple calculator
+11. [x] Programming exercise: Simple calculator
 12. [ ] Quiz: Copying variable value
 #### Conditional statements and conditional operation
 1. [ ] Programming exercise: Speeding Ticket
