@@ -35,7 +35,7 @@
 9. [x] Programming exercise: Average of three numbers
 10. [x] Quiz: Division
 11. [x] Programming exercise: Simple calculator
-12. [ ] Quiz: Copying variable value
+12. [x] Quiz: Copying variable value
 #### Conditional statements and conditional operation
 1. [ ] Programming exercise: Speeding Ticket
 2. [ ] Programming exercise: Check Your Indentation
