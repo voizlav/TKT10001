@@ -38,7 +38,7 @@
 12. [x] Quiz: Copying variable value
 #### Conditional statements and conditional operation
 1. [x] Programming exercise: Speeding Ticket
-2. [ ] Programming exercise: Check Your Indentation
+2. [x] Programming exercise: Check Your Indentation
 3. [ ] Programming exercise: Orwell
 4. [ ] Programming exercise: Ancient
 5. [ ] Programming exercise: Positivity
