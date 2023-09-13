@@ -40,7 +40,7 @@
 1. [x] Programming exercise: Speeding Ticket
 2. [x] Programming exercise: Check Your Indentation
 3. [x] Programming exercise: Orwell
-4. [ ] Programming exercise: Ancient
+4. [x] Programming exercise: Ancient
 5. [ ] Programming exercise: Positivity
 6. [ ] Programming exercise: Adulthood
 7. [ ] Programming exercise: Larger Than or Equal To
