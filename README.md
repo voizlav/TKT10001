@@ -44,7 +44,7 @@
 5. [x] Programming exercise: Positivity
 6. [x] Programming exercise: Adulthood
 7. [x] Programming exercise: Larger Than or Equal To
-8. [ ] Programming exercise: Grades and Points
+8. [x] Programming exercise: Grades and Points
 9. [ ] Programming exercise: Odd or even
 10. [ ] Programming exercise: Password
 11. [ ] Programming exercise: Same
