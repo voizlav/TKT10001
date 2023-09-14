@@ -46,7 +46,7 @@
 7. [x] Programming exercise: Larger Than or Equal To
 8. [x] Programming exercise: Grades and Points
 9. [x] Programming exercise: Odd or even
-10. [ ] Programming exercise: Password
+10. [x] Programming exercise: Password
 11. [ ] Programming exercise: Same
 12. [ ] Programming exercise: Checking the age
 13. [ ] Programming exercise: Leap year
