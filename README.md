@@ -50,6 +50,6 @@
 11. [x] Programming exercise: Same
 12. [x] Programming exercise: Checking the age
 13. [x] Programming exercise: Leap year
-14. [ ] Programming exercise: Gift tax
+14. [x] Programming exercise: Gift tax
 #### Programming in our society
 1. [ ] Quiz: Part 1 learning outcomes
