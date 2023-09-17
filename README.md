@@ -53,3 +53,54 @@
 14. [x] Programming exercise: Gift tax
 #### Programming in our society
 1. [x] Quiz: Part 1 learning outcomes
+
+
+## Part 2
+#### Recurring problems and patterns to solve them
+1. [ ] Quiz: Reacting to input
+2. [ ] Programming exercise: Squared
+3. [ ] Programming exercise: Square root of sum
+4. [ ] Quiz: Executing conditional statements
+5. [ ] Programming exercise: Absolute Value
+6. [ ] Programming exercise: Comparing Numbers
+#### Repeating functionality
+1. [ ] Programming exercise: Carry on?
+2. [ ] Programming exercise: Are we there yet?
+3. [ ] Quiz: Exiting loop and limit
+4. [ ] Programming exercise: Only positives
+5. [ ] Programming exercise: Number of Numbers
+6. [ ] Programming exercise: Number of negative numbers
+7. [ ] Programming exercise: Sum of Numbers
+8. [ ] Programming exercise: Number and sum of numbers
+9. [ ] Programming exercise: Average of numbers
+10. [ ] Programming exercise: Average of positive numbers
+#### More loops
+1. [ ] Quiz: Motivation and study strategies questionnaire
+2. [ ] Programming exercise: Counting
+3. [ ] Programming exercise: Counting to hundred
+4. [ ] Programming exercise: From where to where? (2 parts)
+5. [ ] Programming exercise: Sum of a sequence
+6. [ ] Programming exercise: Sum of a sequence - the sequel
+7. [ ] Programming exercise: Factorial
+8. [ ] Programming exercise: Repeating, breaking and remembering (5 parts)
+#### Methods and dividing the program into smaller parts
+1. [ ] Programming exercise: In a hole in the ground
+2. [ ] Programming exercise: Reprint
+3. [ ] Quiz: Method name
+4. [ ] Programming exercise: From one to parameter
+5. [ ] Programming exercise: From parameter to one
+6. [ ] Programming exercise: Division
+7. [ ] Programming exercise: Divisible by three
+8. [ ] Quiz: Variable and method
+9. [ ] Programming exercise: Number uno
+10. [ ] Programming exercise: Word
+11. [ ] Quiz: Variables in method
+12. [ ] Quiz: Variable and method 2
+13. [ ] Programming exercise: Summation
+14. [ ] Programming exercise: Smallest
+15. [ ] Programming exercise: Greatest
+16. [ ] Programming exercise: Averaging
+17. [ ] Programming exercise: Star sign (4 parts)
+18. [ ] Programming exercise: Advanced astrology (3 parts)
+#### End questionnaire
+1. [ ] Quiz: Part 2 learning objectives
