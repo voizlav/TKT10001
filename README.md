@@ -48,7 +48,7 @@
 9. [x] Programming exercise: Odd or even
 10. [x] Programming exercise: Password
 11. [x] Programming exercise: Same
-12. [ ] Programming exercise: Checking the age
+12. [x] Programming exercise: Checking the age
 13. [ ] Programming exercise: Leap year
 14. [ ] Programming exercise: Gift tax
 #### Programming in our society
