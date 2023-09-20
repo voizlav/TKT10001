@@ -60,7 +60,7 @@
 1. [x] Quiz: Reacting to input
 2. [x] Programming exercise: Squared
 3. [x] Programming exercise: Square root of sum
-4. [ ] Quiz: Executing conditional statements
+4. [x] Quiz: Executing conditional statements
 5. [ ] Programming exercise: Absolute Value
 6. [ ] Programming exercise: Comparing Numbers
 #### Repeating functionality
