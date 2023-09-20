@@ -62,7 +62,7 @@
 3. [x] Programming exercise: Square root of sum
 4. [x] Quiz: Executing conditional statements
 5. [x] Programming exercise: Absolute Value
-6. [ ] Programming exercise: Comparing Numbers
+6. [x] Programming exercise: Comparing Numbers
 #### Repeating functionality
 1. [ ] Programming exercise: Carry on?
 2. [ ] Programming exercise: Are we there yet?
