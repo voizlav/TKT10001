@@ -58,7 +58,7 @@
 ## Part 2
 #### Recurring problems and patterns to solve them
 1. [x] Quiz: Reacting to input
-2. [ ] Programming exercise: Squared
+2. [x] Programming exercise: Squared
 3. [ ] Programming exercise: Square root of sum
 4. [ ] Quiz: Executing conditional statements
 5. [ ] Programming exercise: Absolute Value
