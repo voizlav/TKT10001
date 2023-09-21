@@ -64,7 +64,7 @@
 5. [x] Programming exercise: Absolute Value
 6. [x] Programming exercise: Comparing Numbers
 #### Repeating functionality
-1. [ ] Programming exercise: Carry on?
+1. [x] Programming exercise: Carry on?
 2. [ ] Programming exercise: Are we there yet?
 3. [ ] Quiz: Exiting loop and limit
 4. [ ] Programming exercise: Only positives
