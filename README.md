@@ -71,7 +71,7 @@
 5. [x] Programming exercise: Number of Numbers
 6. [x] Programming exercise: Number of negative numbers
 7. [x] Programming exercise: Sum of Numbers
-8. [ ] Programming exercise: Number and sum of numbers
+8. [x] Programming exercise: Number and sum of numbers
 9. [ ] Programming exercise: Average of numbers
 10. [ ] Programming exercise: Average of positive numbers
 #### More loops
