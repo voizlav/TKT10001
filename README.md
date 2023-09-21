@@ -72,7 +72,7 @@
 6. [x] Programming exercise: Number of negative numbers
 7. [x] Programming exercise: Sum of Numbers
 8. [x] Programming exercise: Number and sum of numbers
-9. [ ] Programming exercise: Average of numbers
+9. [x] Programming exercise: Average of numbers
 10. [ ] Programming exercise: Average of positive numbers
 #### More loops
 1. [ ] Quiz: Motivation and study strategies questionnaire
