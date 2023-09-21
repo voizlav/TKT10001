@@ -67,7 +67,7 @@
 1. [x] Programming exercise: Carry on?
 2. [x] Programming exercise: Are we there yet?
 3. [x] Quiz: Exiting loop and limit
-4. [ ] Programming exercise: Only positives
+4. [x] Programming exercise: Only positives
 5. [ ] Programming exercise: Number of Numbers
 6. [ ] Programming exercise: Number of negative numbers
 7. [ ] Programming exercise: Sum of Numbers
