@@ -65,7 +65,7 @@
 6. [x] Programming exercise: Comparing Numbers
 #### Repeating functionality
 1. [x] Programming exercise: Carry on?
-2. [ ] Programming exercise: Are we there yet?
+2. [x] Programming exercise: Are we there yet?
 3. [ ] Quiz: Exiting loop and limit
 4. [ ] Programming exercise: Only positives
 5. [ ] Programming exercise: Number of Numbers
