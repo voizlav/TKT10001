@@ -76,7 +76,7 @@
 10. [x] Programming exercise: Average of positive numbers
 #### More loops
 1. [ ] Quiz: Motivation and study strategies questionnaire
-2. [ ] Programming exercise: Counting
+2. [x] Programming exercise: Counting
 3. [ ] Programming exercise: Counting to hundred
 4. [ ] Programming exercise: From where to where? (2 parts)
 5. [ ] Programming exercise: Sum of a sequence
