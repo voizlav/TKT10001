@@ -24,4 +24,5 @@ public class RepeatingBreakingAndRemembering {
         System.out.println("Thx! Bye!");
         System.out.println("Sum: " + sum);
         System.out.println("Numbers: " + nums);
+        System.out.println("Average: " + (double) sum / nums);
 }
