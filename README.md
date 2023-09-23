@@ -81,7 +81,7 @@
 4. [x] Programming exercise: From where to where? (2 parts)
 5. [x] Programming exercise: Sum of a sequence
 6. [x] Programming exercise: Sum of a sequence - the sequel
-7. [ ] Programming exercise: Factorial
+7. [x] Programming exercise: Factorial
 8. [ ] Programming exercise: Repeating, breaking and remembering (5 parts)
 #### Methods and dividing the program into smaller parts
 1. [ ] Programming exercise: In a hole in the ground
