@@ -87,7 +87,7 @@
 1. [x] Programming exercise: In a hole in the ground
 2. [x] Programming exercise: Reprint
 3. [ ] Quiz: Method name
-4. [ ] Programming exercise: From one to parameter
+4. [x] Programming exercise: From one to parameter
 5. [ ] Programming exercise: From parameter to one
 6. [ ] Programming exercise: Division
 7. [ ] Programming exercise: Divisible by three
