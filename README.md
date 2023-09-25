@@ -84,7 +84,7 @@
 7. [x] Programming exercise: Factorial
 8. [x] Programming exercise: Repeating, breaking and remembering (5 parts)
 #### Methods and dividing the program into smaller parts
-1. [ ] Programming exercise: In a hole in the ground
+1. [x] Programming exercise: In a hole in the ground
 2. [ ] Programming exercise: Reprint
 3. [ ] Quiz: Method name
 4. [ ] Programming exercise: From one to parameter
