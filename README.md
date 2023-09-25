@@ -88,7 +88,7 @@
 2. [x] Programming exercise: Reprint
 3. [ ] Quiz: Method name
 4. [x] Programming exercise: From one to parameter
-5. [ ] Programming exercise: From parameter to one
+5. [x] Programming exercise: From parameter to one
 6. [ ] Programming exercise: Division
 7. [ ] Programming exercise: Divisible by three
 8. [ ] Quiz: Variable and method
