@@ -98,7 +98,7 @@
 12. [x] Quiz: Variable and method 2
 13. [x] Programming exercise: Summation
 14. [x] Programming exercise: Smallest
-15. [ ] Programming exercise: Greatest
+15. [x] Programming exercise: Greatest
 16. [ ] Programming exercise: Averaging
 17. [ ] Programming exercise: Star sign (4 parts)
 18. [ ] Programming exercise: Advanced astrology (3 parts)
