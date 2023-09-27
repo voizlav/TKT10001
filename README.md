@@ -100,7 +100,7 @@
 14. [x] Programming exercise: Smallest
 15. [x] Programming exercise: Greatest
 16. [x] Programming exercise: Averaging
-17. [ ] Programming exercise: Star sign (4 parts)
+17. [x] Programming exercise: Star sign (4 parts)
 18. [ ] Programming exercise: Advanced astrology (3 parts)
 #### End questionnaire
 1. [ ] Quiz: Part 2 learning objectives
