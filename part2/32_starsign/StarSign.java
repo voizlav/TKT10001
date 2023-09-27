@@ -20,7 +20,9 @@ public class StarSign {
     }
 
     public static void printSquare(int size) {
-        // second part of the exercise
+        for (int i = 1; i <= size; i++) {
+            printStars(size);
+        }
     }
 
     public static void printRectangle(int width, int height) {
