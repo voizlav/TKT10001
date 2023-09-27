@@ -4,10 +4,10 @@ import java.util.Scanner;
 public class NumberUno {
 
     public static void main(String[] args) {
-        NumberUno();
+        numberUno();
     }
 
-    public static int NumberUno() {
+    public static int numberUno() {
         return 1;
     }
 }
