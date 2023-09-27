@@ -91,7 +91,7 @@
 5. [x] Programming exercise: From parameter to one
 6. [x] Programming exercise: Division
 7. [x] Programming exercise: Divisible by three
-8. [ ] Quiz: Variable and method
+8. [x] Quiz: Variable and method
 9. [ ] Programming exercise: Number uno
 10. [ ] Programming exercise: Word
 11. [ ] Quiz: Variables in method
