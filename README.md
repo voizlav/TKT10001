@@ -90,7 +90,7 @@
 4. [x] Programming exercise: From one to parameter
 5. [x] Programming exercise: From parameter to one
 6. [x] Programming exercise: Division
-7. [ ] Programming exercise: Divisible by three
+7. [x] Programming exercise: Divisible by three
 8. [ ] Quiz: Variable and method
 9. [ ] Programming exercise: Number uno
 10. [ ] Programming exercise: Word
