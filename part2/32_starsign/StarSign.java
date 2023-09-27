@@ -13,8 +13,9 @@ public class StarSign {
     }
 
     public static void printStars(int number) {
-        for (int i = 1; i <= number; i++) {
+        while (number > 0) {
             System.out.print("*");
+            number--;
         }
         System.out.println("");
     }
