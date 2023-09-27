@@ -93,7 +93,7 @@
 7. [x] Programming exercise: Divisible by three
 8. [x] Quiz: Variable and method
 9. [x] Programming exercise: Number uno
-10. [ ] Programming exercise: Word
+10. [x] Programming exercise: Word
 11. [ ] Quiz: Variables in method
 12. [ ] Quiz: Variable and method 2
 13. [ ] Programming exercise: Summation
