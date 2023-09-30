@@ -103,4 +103,4 @@
 17. [x] Programming exercise: Star sign (4 parts)
 18. [x] Programming exercise: Advanced astrology (3 parts)
 #### End questionnaire
-1. [ ] Quiz: Part 2 learning objectives
+1. [x] Quiz: Part 2 learning objectives
