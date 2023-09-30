@@ -17,7 +17,10 @@ public class AdvancedAstrology {
     }
 
     public static void printTriangle(int size) {
-        // part 2 of the exercise
+        for (int i = 1; i <= size; i++) {
+            printSpaces(size - i);
+            printStars(i);
+        }
     }
 
     public static void christmasTree(int height) {
