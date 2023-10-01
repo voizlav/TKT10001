@@ -108,7 +108,7 @@
 
 ## Part 3
 #### Discovering errors
-1. [ ] Quiz: Squish a bug
+1. [x] Quiz: Squish a bug
 2. [ ] Quiz: Burger chain app -- what does the program do?
 #### Lists
 1. [ ] Programming exercise: Third element
