@@ -109,7 +109,7 @@
 ## Part 3
 #### Discovering errors
 1. [x] Quiz: Squish a bug
-2. [ ] Quiz: Burger chain app -- what does the program do?
+2. [x] Quiz: Burger chain app -- what does the program do?
 #### Lists
 1. [ ] Programming exercise: Third element
 2. [ ] Programming exercise: Second plus third
