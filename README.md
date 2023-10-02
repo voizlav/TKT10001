@@ -112,7 +112,7 @@
 2. [x] Quiz: Burger chain app -- what does the program do?
 #### Lists
 1. [x] Programming exercise: Third element
-2. [ ] Programming exercise: Second plus third
+2. [x] Programming exercise: Second plus third
 3. [ ] Programming exercise: IndexOutOfBoundsException
 4. [ ] Quiz: ArrayList and index
 5. [ ] Programming exercise: List size
