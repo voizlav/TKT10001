@@ -113,7 +113,7 @@
 #### Lists
 1. [x] Programming exercise: Third element
 2. [x] Programming exercise: Second plus third
-3. [ ] Programming exercise: IndexOutOfBoundsException
+3. [x] Programming exercise: IndexOutOfBoundsException
 4. [ ] Quiz: ArrayList and index
 5. [ ] Programming exercise: List size
 6. [ ] Programming exercise: Last in list
