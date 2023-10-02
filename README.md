@@ -114,7 +114,7 @@
 1. [x] Programming exercise: Third element
 2. [x] Programming exercise: Second plus third
 3. [x] Programming exercise: IndexOutOfBoundsException
-4. [ ] Quiz: ArrayList and index
+4. [x] Quiz: ArrayList and index
 5. [ ] Programming exercise: List size
 6. [ ] Programming exercise: Last in list
 7. [ ] Programming exercise: First and last
