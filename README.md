@@ -117,7 +117,7 @@
 4. [x] Quiz: ArrayList and index
 5. [x] Programming exercise: List size
 6. [x] Programming exercise: Last in list
-7. [ ] Programming exercise: First and last
+7. [x] Programming exercise: First and last
 8. [ ] Programming exercise: Remember these numbers
 9. [ ] Programming exercise: Only these numbers
 10. [ ] Programming exercise: Greatest in list
