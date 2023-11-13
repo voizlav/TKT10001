@@ -120,7 +120,7 @@
 7. [x] Programming exercise: First and last
 8. [x] Programming exercise: Remember these numbers
 9. [x] Programming exercise: Only these numbers
-10. [ ] Programming exercise: Greatest in list
+10. [x] Programming exercise: Greatest in list
 11. [ ] Programming exercise: Index of
 12. [ ] Programming exercise: Index of smallest
 13. [ ] Programming exercise: Sum of a list
