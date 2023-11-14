@@ -121,7 +121,7 @@
 8. [x] Programming exercise: Remember these numbers
 9. [x] Programming exercise: Only these numbers
 10. [x] Programming exercise: Greatest in list
-11. [ ] Programming exercise: Index of
+11. [x] Programming exercise: Index of
 12. [ ] Programming exercise: Index of smallest
 13. [ ] Programming exercise: Sum of a list
 14. [ ] Programming exercise: Average of a list
