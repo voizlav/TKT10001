@@ -123,7 +123,7 @@
 10. [x] Programming exercise: Greatest in list
 11. [x] Programming exercise: Index of
 12. [x] Programming exercise: Index of smallest
-13. [ ] Programming exercise: Sum of a list
+13. [x] Programming exercise: Sum of a list
 14. [ ] Programming exercise: Average of a list
 15. [ ] Quiz: Remove a number
 16. [ ] Quiz: Remove a number, part 2
