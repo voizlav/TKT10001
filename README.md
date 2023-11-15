@@ -129,7 +129,7 @@
 16. [x] Quiz: Remove a number, part 2
 17. [x] Programming exercise: On the list?
 18. [x] Programming exercise: Print in range
-19. [ ] Programming exercise: Sum
+19. [x] Programming exercise: Sum
 20. [ ] Programming exercise: Remove last
 #### Arrays
 1. [ ] Quiz: Swapping array values
