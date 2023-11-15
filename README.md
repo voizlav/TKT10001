@@ -125,7 +125,7 @@
 12. [x] Programming exercise: Index of smallest
 13. [x] Programming exercise: Sum of a list
 14. [x] Programming exercise: Average of a list
-15. [ ] Quiz: Remove a number
+15. [x] Quiz: Remove a number
 16. [ ] Quiz: Remove a number, part 2
 17. [ ] Programming exercise: On the list?
 18. [ ] Programming exercise: Print in range
