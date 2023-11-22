@@ -130,7 +130,7 @@
 17. [x] Programming exercise: On the list?
 18. [x] Programming exercise: Print in range
 19. [x] Programming exercise: Sum
-20. [ ] Programming exercise: Remove last
+20. [x] Programming exercise: Remove last
 #### Arrays
 1. [ ] Quiz: Swapping array values
 2. [ ] Programming exercise: Swap
