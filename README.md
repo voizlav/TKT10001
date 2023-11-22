@@ -151,3 +151,44 @@
 10. [ ] Programming exercise: Personal details
 #### Summary
 1. [ ] Quiz: Part 3 learning objectives
+
+
+## Part 4
+#### Introduction to object-oriented programming
+1. [ ] Programming exercise: Your first account
+2. [ ] Programming exercise: Your first bank transfer
+3. [ ] Quiz: Calling a method
+4. [ ] Programming exercise: Dog attributes
+5. [ ] Programming exercise: Room
+6. [ ] Programming exercise: Whistle
+7. [ ] Programming exercise: Door
+8. [ ] Programming exercise: Product
+9. [ ] Programming exercise: Decreasing counter (3 parts)
+10. [ ] Programming exercise: Debt
+11. [ ] Quiz: Which number will be printed?
+12. [ ] Programming exercise: Song
+13. [ ] Programming exercise: Film
+14. [ ] Programming exercise: Gauge
+15. [ ] Programming exercise: Agent
+16. [ ] Programming exercise: Multiplier
+17. [ ] Programming exercise: Statistics (4 parts)
+18. [ ] Programming exercise: Payment Card (6 parts)
+#### Objects in a list
+1. [ ] Programming exercise: Items
+2. [ ] Programming exercise: Personal information
+3. [ ] Programming exercise: Television programs
+4. [ ] Programming exercise: Books
+#### Files and reading data
+1. [ ] Programming exercise: Number of Strings
+2. [ ] Programming exercise: Cubes
+3. [ ] Programming exercise: Creating a New File
+4. [ ] Programming exercise: Printing a File
+5. [ ] Programming exercise: Printing a Specified File
+6. [ ] Programming exercise: Guest List From a File
+7. [ ] Programming exercise: Is it in the file?
+8. [ ] Programming exercise: Numbers From a File
+9. [ ] Programming exercise: Records From a File
+10. [ ] Programming exercise: Storing Records
+11. [ ] Programming exercise: Sport Statistics
+#### [ ] Summary
+1. [ ] Quiz: Part 4 learning outcomes
