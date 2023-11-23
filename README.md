@@ -133,7 +133,7 @@
 20. [x] Programming exercise: Remove last
 #### Arrays
 1. [x] Quiz: Swapping array values
-2. [ ] Programming exercise: Swap
+2. [x] Programming exercise: Swap
 3. [ ] Programming exercise: Index was not found
 4. [ ] Programming exercise: Sum of array
 5. [ ] Programming exercise: Print neatly
