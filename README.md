@@ -139,7 +139,7 @@
 5. [x] Programming exercise: Print neatly
 6. [x] Programming exercise: Print in stars
 #### Using strings
-1. [ ] Programming exercise: Print thrice
+1. [x] Programming exercise: Print thrice
 2. [ ] Programming exercise: Is it true
 3. [ ] Programming exercise: Login
 4. [ ] Programming exercise: Line by line
