@@ -21,7 +21,7 @@ public class IndexWasNotFound {
 
         int result = searchForIndex(array, searching);
 
-        if (result > 0) {
+        if (result >= 0) {
             System.out.println(searching + " is at index " + result + ".");
         } else {
             System.out.println(searching + " was not found.");
