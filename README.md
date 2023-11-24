@@ -140,7 +140,7 @@
 6. [x] Programming exercise: Print in stars
 #### Using strings
 1. [x] Programming exercise: Print thrice
-2. [ ] Programming exercise: Is it true
+2. [x] Programming exercise: Is it true
 3. [ ] Programming exercise: Login
 4. [ ] Programming exercise: Line by line
 5. [ ] Programming exercise: AV Club
