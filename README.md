@@ -136,7 +136,7 @@
 2. [x] Programming exercise: Swap
 3. [x] Programming exercise: Index was not found
 4. [x] Programming exercise: Sum of array
-5. [ ] Programming exercise: Print neatly
+5. [x] Programming exercise: Print neatly
 6. [ ] Programming exercise: Print in stars
 #### Using strings
 1. [ ] Programming exercise: Print thrice
