@@ -137,7 +137,7 @@
 3. [x] Programming exercise: Index was not found
 4. [x] Programming exercise: Sum of array
 5. [x] Programming exercise: Print neatly
-6. [ ] Programming exercise: Print in stars
+6. [x] Programming exercise: Print in stars
 #### Using strings
 1. [ ] Programming exercise: Print thrice
 2. [ ] Programming exercise: Is it true
