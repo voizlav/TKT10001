@@ -141,7 +141,7 @@
 #### Using strings
 1. [x] Programming exercise: Print thrice
 2. [x] Programming exercise: Is it true
-3. [ ] Programming exercise: Login
+3. [x] Programming exercise: Login
 4. [ ] Programming exercise: Line by line
 5. [ ] Programming exercise: AV Club
 6. [ ] Programming exercise: First words
