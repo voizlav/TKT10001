@@ -145,7 +145,7 @@
 4. [x] Programming exercise: Line by line
 5. [x] Programming exercise: AV Club
 6. [x] Programming exercise: First words
-7. [ ] Programming exercise: LastWords
+7. [x] Programming exercise: LastWords
 8. [ ] Programming exercise: Age of the oldest
 9. [ ] Programming exercise: Name of the oldest
 10. [ ] Programming exercise: Personal details
