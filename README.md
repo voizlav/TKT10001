@@ -148,7 +148,7 @@
 7. [x] Programming exercise: LastWords
 8. [x] Programming exercise: Age of the oldest
 9. [x] Programming exercise: Name of the oldest
-10. [ ] Programming exercise: Personal details
+10. [x] Programming exercise: Personal details
 #### Summary
 1. [ ] Quiz: Part 3 learning objectives
 
