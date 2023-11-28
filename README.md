@@ -156,7 +156,7 @@
 ## Part 4
 #### Introduction to object-oriented programming
 1. [x] Programming exercise: Your first account
-2. [ ] Programming exercise: Your first bank transfer
+2. [x] Programming exercise: Your first bank transfer
 3. [ ] Quiz: Calling a method
 4. [ ] Programming exercise: Dog attributes
 5. [ ] Programming exercise: Room
