@@ -158,7 +158,7 @@
 1. [x] Programming exercise: Your first account
 2. [x] Programming exercise: Your first bank transfer
 3. [x] Quiz: Calling a method
-4. [ ] Programming exercise: Dog attributes
+4. [x] Programming exercise: Dog attributes
 5. [ ] Programming exercise: Room
 6. [ ] Programming exercise: Whistle
 7. [ ] Programming exercise: Door
