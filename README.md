@@ -161,7 +161,7 @@
 4. [x] Programming exercise: Dog attributes
 5. [x] Programming exercise: Room
 6. [x] Programming exercise: Whistle
-7. [ ] Programming exercise: Door
+7. [x] Programming exercise: Door
 8. [ ] Programming exercise: Product
 9. [ ] Programming exercise: Decreasing counter (3 parts)
 10. [ ] Programming exercise: Debt
