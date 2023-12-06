@@ -162,7 +162,7 @@
 5. [x] Programming exercise: Room
 6. [x] Programming exercise: Whistle
 7. [x] Programming exercise: Door
-8. [ ] Programming exercise: Product
+8. [x] Programming exercise: Product
 9. [ ] Programming exercise: Decreasing counter (3 parts)
 10. [ ] Programming exercise: Debt
 11. [ ] Quiz: Which number will be printed?
