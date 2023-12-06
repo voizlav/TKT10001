@@ -160,7 +160,7 @@
 3. [x] Quiz: Calling a method
 4. [x] Programming exercise: Dog attributes
 5. [x] Programming exercise: Room
-6. [ ] Programming exercise: Whistle
+6. [x] Programming exercise: Whistle
 7. [ ] Programming exercise: Door
 8. [ ] Programming exercise: Product
 9. [ ] Programming exercise: Decreasing counter (3 parts)
