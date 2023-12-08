@@ -164,7 +164,7 @@
 7. [x] Programming exercise: Door
 8. [x] Programming exercise: Product
 9. [ ] Programming exercise: Decreasing counter (3 parts)
-10. [ ] Programming exercise: Debt
+10. [x] Programming exercise: Debt
 11. [ ] Quiz: Which number will be printed?
 12. [ ] Programming exercise: Song
 13. [ ] Programming exercise: Film
