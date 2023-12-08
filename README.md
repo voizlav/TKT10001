@@ -165,7 +165,7 @@
 8. [x] Programming exercise: Product
 9. [x] Programming exercise: Decreasing counter (3 parts)
 10. [x] Programming exercise: Debt
-11. [ ] Quiz: Which number will be printed?
+11. [x] Quiz: Which number will be printed?
 12. [ ] Programming exercise: Song
 13. [ ] Programming exercise: Film
 14. [ ] Programming exercise: Gauge
