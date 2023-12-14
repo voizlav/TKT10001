@@ -169,7 +169,7 @@
 12. [x] Programming exercise: Song
 13. [x] Programming exercise: Film
 14. [x] Programming exercise: Gauge
-15. [ ] Programming exercise: Agent
+15. [x] Programming exercise: Agent
 16. [ ] Programming exercise: Multiplier
 17. [ ] Programming exercise: Statistics (4 parts)
 18. [ ] Programming exercise: Payment Card (6 parts)
