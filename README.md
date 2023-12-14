@@ -167,7 +167,7 @@
 10. [x] Programming exercise: Debt
 11. [x] Quiz: Which number will be printed?
 12. [x] Programming exercise: Song
-13. [ ] Programming exercise: Film
+13. [x] Programming exercise: Film
 14. [ ] Programming exercise: Gauge
 15. [ ] Programming exercise: Agent
 16. [ ] Programming exercise: Multiplier
