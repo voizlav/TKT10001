@@ -7,7 +7,7 @@ public class Statistics {
     }
 
     public void addNumber(int number) {
-        counter += number;
+        counter++;
     }
 
     public int getCount() {
