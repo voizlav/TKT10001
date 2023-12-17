@@ -171,7 +171,7 @@
 14. [x] Programming exercise: Gauge
 15. [x] Programming exercise: Agent
 16. [x] Programming exercise: Multiplier
-17. [ ] Programming exercise: Statistics (4 parts)
+17. [x] Programming exercise: Statistics (4 parts)
 18. [ ] Programming exercise: Payment Card (6 parts)
 #### Objects in a list
 1. [ ] Programming exercise: Items
