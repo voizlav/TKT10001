@@ -6,7 +6,21 @@ public class PaymentCard {
     }
 
     public String toString() {
-        String text = "The card has a balance of %.2f euros.";
-        return String.format(text, this.balance);
+        String text = "The card has a balance of %s euros.";
+        return String.format(text, Double.toString(this.balance));
+    }
+
+    public void eatAffordably() {
+        double price = 2.60;
+        if (this.balance - price > 0) {
+            this.balance -= price;
+        }
+    }
+
+    public void eatHeartily() {
+        double price = 4.60;
+        if (this.balance - price > 0) {
+            this.balance -= price;
+        }
     }
 }
