@@ -6,7 +6,7 @@ public class PaymentCard {
     }
 
     public String toString() {
-        String text = "The card has a balance of %s euros.";
+        String text = "The card has a balance of %s euros";
         return String.format(text, Double.toString(this.balance));
     }
 
@@ -21,6 +21,18 @@ public class PaymentCard {
         double price = 4.60;
         if (this.balance - price >= 0) {
             this.balance -= price;
+        }
+    }
+
+    public void addMoney(double amount) {
+        if (amount <= 0) {
+            return;
+        }
+        int limit = 150;
+        if (this.balance + amount > limit) {
+            this.balance = limit;
+        } else {
+            this.balance += amount;
         }
     }
 }
