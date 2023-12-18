@@ -172,7 +172,7 @@
 15. [x] Programming exercise: Agent
 16. [x] Programming exercise: Multiplier
 17. [x] Programming exercise: Statistics (4 parts)
-18. [ ] Programming exercise: Payment Card (6 parts)
+18. [x] Programming exercise: Payment Card (6 parts)
 #### Objects in a list
 1. [ ] Programming exercise: Items
 2. [ ] Programming exercise: Personal information
