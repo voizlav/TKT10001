@@ -175,7 +175,7 @@
 18. [x] Programming exercise: Payment Card (6 parts)
 #### Objects in a list
 1. [x] Programming exercise: Items
-2. [ ] Programming exercise: Personal information
+2. [x] Programming exercise: Personal information
 3. [ ] Programming exercise: Television programs
 4. [ ] Programming exercise: Books
 #### Files and reading data
