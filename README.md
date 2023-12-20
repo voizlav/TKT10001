@@ -176,7 +176,7 @@
 #### Objects in a list
 1. [x] Programming exercise: Items
 2. [x] Programming exercise: Personal information
-3. [ ] Programming exercise: Television programs
+3. [x] Programming exercise: Television programs
 4. [ ] Programming exercise: Books
 #### Files and reading data
 1. [ ] Programming exercise: Number of Strings
