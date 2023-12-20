@@ -177,7 +177,7 @@
 1. [x] Programming exercise: Items
 2. [x] Programming exercise: Personal information
 3. [x] Programming exercise: Television programs
-4. [ ] Programming exercise: Books
+4. [x] Programming exercise: Books
 #### Files and reading data
 1. [ ] Programming exercise: Number of Strings
 2. [ ] Programming exercise: Cubes
