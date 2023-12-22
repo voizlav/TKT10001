@@ -182,7 +182,7 @@
 1. [x] Programming exercise: Number of Strings
 2. [x] Programming exercise: Cubes
 3. [x] Programming exercise: Creating a New File
-4. [ ] Programming exercise: Printing a File
+4. [x] Programming exercise: Printing a File
 5. [ ] Programming exercise: Printing a Specified File
 6. [ ] Programming exercise: Guest List From a File
 7. [ ] Programming exercise: Is it in the file?
