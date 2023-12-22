@@ -179,7 +179,7 @@
 3. [x] Programming exercise: Television programs
 4. [x] Programming exercise: Books
 #### Files and reading data
-1. [ ] Programming exercise: Number of Strings
+1. [x] Programming exercise: Number of Strings
 2. [ ] Programming exercise: Cubes
 3. [ ] Programming exercise: Creating a New File
 4. [ ] Programming exercise: Printing a File
