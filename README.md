@@ -184,7 +184,7 @@
 3. [x] Programming exercise: Creating a New File
 4. [x] Programming exercise: Printing a File
 5. [x] Programming exercise: Printing a Specified File
-6. [ ] Programming exercise: Guest List From a File
+6. [x] Programming exercise: Guest List From a File
 7. [ ] Programming exercise: Is it in the file?
 8. [ ] Programming exercise: Numbers From a File
 9. [ ] Programming exercise: Records From a File
