@@ -194,9 +194,9 @@
 1. [x] Quiz: Part 4 learning outcomes
 
 
-# Part 5
+## Part 5
 #### Learning object-oriented programming
-1. [ ] Programming exercise: One Minute
+1. [x] Programming exercise: One Minute
 2. [ ] Programming exercise: Book
 3. [ ] Programming exercise: Cube
 4. [ ] Programming exercise: Fitbyte
