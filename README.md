@@ -192,3 +192,33 @@
 11. [x] Programming exercise: Sport Statistics
 #### Summary
 1. [x] Quiz: Part 4 learning outcomes
+
+
+# Part 5
+#### Learning object-oriented programming
+1. [ ] Programming exercise: One Minute
+2. [ ] Programming exercise: Book
+3. [ ] Programming exercise: Cube
+4. [ ] Programming exercise: Fitbyte
+#### Removing repetitive code (overloading methods and constructors)
+1. [ ] Quiz: Overloading a constructor
+2. [ ] Programming exercise: Constructor Overload
+3. [ ] Quiz: Overloading a method
+4. [ ] Programming exercise: Overloaded Counter (2 parts)
+#### Primitive and reference variables
+1. [ ] Quiz: Modifying an object variable
+2. [ ] Quiz: Time machine
+#### Objects and references
+1. [ ] Programming exercise: NullPointerException
+2. [ ] Programming exercise: Health station (3 parts)
+3. [ ] Programming exercise: Card payments (4 sections)
+4. [ ] Programming exercise: Biggest pet shop
+5. [ ] Programming exercise: Comparing apartments (3 parts)
+6. [ ] Programming exercise: Song
+7. [ ] Programming exercise: Identical twins
+8. [ ] Programming exercise: Books
+9. [ ] Programming exercise: Archive (2 parts)
+10. [ ] Programming exercise: Dating app (3 parts)
+11. [ ] Programming exercise: Money (3 parts)
+#### Conclusion
+1. [ ] Quiz: Part 5 learning outcomes
