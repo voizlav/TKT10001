@@ -189,6 +189,6 @@
 8. [x] Programming exercise: Numbers From a File
 9. [x] Programming exercise: Records From a File
 10. [x] Programming exercise: Storing Records
-11. [ ] Programming exercise: Sport Statistics
+11. [x] Programming exercise: Sport Statistics
 #### [ ] Summary
 1. [ ] Quiz: Part 4 learning outcomes
