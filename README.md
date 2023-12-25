@@ -198,7 +198,7 @@
 #### Learning object-oriented programming
 1. [x] Programming exercise: One Minute
 2. [x] Programming exercise: Book
-3. [ ] Programming exercise: Cube
+3. [x] Programming exercise: Cube
 4. [ ] Programming exercise: Fitbyte
 #### Removing repetitive code (overloading methods and constructors)
 1. [ ] Quiz: Overloading a constructor
