@@ -199,7 +199,7 @@
 1. [x] Programming exercise: One Minute
 2. [x] Programming exercise: Book
 3. [x] Programming exercise: Cube
-4. [ ] Programming exercise: Fitbyte
+4. [x] Programming exercise: Fitbyte
 #### Removing repetitive code (overloading methods and constructors)
 1. [ ] Quiz: Overloading a constructor
 2. [ ] Programming exercise: Constructor Overload
