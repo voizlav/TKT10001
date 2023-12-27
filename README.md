@@ -204,7 +204,7 @@
 1. [x] Quiz: Overloading a constructor
 2. [x] Programming exercise: Constructor Overload
 3. [x] Quiz: Overloading a method
-4. [ ] Programming exercise: Overloaded Counter (2 parts)
+4. [x] Programming exercise: Overloaded Counter (2 parts)
 #### Primitive and reference variables
 1. [ ] Quiz: Modifying an object variable
 2. [ ] Quiz: Time machine
