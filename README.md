@@ -201,7 +201,7 @@
 3. [x] Programming exercise: Cube
 4. [x] Programming exercise: Fitbyte
 #### Removing repetitive code (overloading methods and constructors)
-1. [ ] Quiz: Overloading a constructor
+1. [x] Quiz: Overloading a constructor
 2. [ ] Programming exercise: Constructor Overload
 3. [ ] Quiz: Overloading a method
 4. [ ] Programming exercise: Overloaded Counter (2 parts)
