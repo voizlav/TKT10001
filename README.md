@@ -207,7 +207,7 @@
 4. [x] Programming exercise: Overloaded Counter (2 parts)
 #### Primitive and reference variables
 1. [x] Quiz: Modifying an object variable
-2. [ ] Quiz: Time machine
+2. [x] Quiz: Time machine
 #### Objects and references
 1. [ ] Programming exercise: NullPointerException
 2. [ ] Programming exercise: Health station (3 parts)
