@@ -1,27 +1,22 @@
 
-public class Main {
-    public static void main(String[] args) {
+public class HealthStation {
 
-        HealthStation hospital = new HealthStation();
+    private int count;
 
-        Person ethan = new Person("Ethan", 1, 110, 7);
-        Person peter = new Person("Peter", 33, 176, 85);
+    public HealthStation() {
+        this.count = 0;
+    }
 
-        String resultEthan = String.format("%s weight: %d kilos", ethan.getName(), hospital.weigh(ethan));
-        String resultPeter = String.format("%s weight: %d kilos", peter.getName(), hospital.weigh(peter));
+    public int weigh(Person person) {
+        this.count++;
+        return person.getWeight();
+    }
 
-        System.out.println(resultEthan);
-        System.out.println(resultPeter);
+    public void feed(Person person) {
+        person.setWeight(person.getWeight() + 1);
+    }
 
-        hospital.feed(ethan);
-        hospital.feed(ethan);
-        hospital.feed(ethan);
-
-        resultEthan = String.format("%s weight: %d kilos", ethan.getName(), hospital.weigh(ethan));
-        resultPeter = String.format("%s weight: %d kilos", peter.getName(), hospital.weigh(peter));
-
-        System.out.println("");
-        System.out.println(resultEthan);
-        System.out.println(resultPeter);
+    public int weighings() {
+        return this.count;
     }
 }
