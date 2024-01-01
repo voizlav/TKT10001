@@ -210,7 +210,7 @@
 2. [x] Quiz: Time machine
 #### Objects and references
 1. [x] Programming exercise: NullPointerException
-2. [ ] Programming exercise: Health station (3 parts)
+2. [x] Programming exercise: Health station (3 parts)
 3. [ ] Programming exercise: Card payments (4 sections)
 4. [ ] Programming exercise: Biggest pet shop
 5. [ ] Programming exercise: Comparing apartments (3 parts)
