@@ -209,7 +209,7 @@
 1. [x] Quiz: Modifying an object variable
 2. [x] Quiz: Time machine
 #### Objects and references
-1. [ ] Programming exercise: NullPointerException
+1. [x] Programming exercise: NullPointerException
 2. [ ] Programming exercise: Health station (3 parts)
 3. [ ] Programming exercise: Card payments (4 sections)
 4. [ ] Programming exercise: Biggest pet shop
