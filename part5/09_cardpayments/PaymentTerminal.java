@@ -4,15 +4,20 @@ public class PaymentTerminal {
     private double money;
     private int affordableMeals;
     private int heartyMeals;
-    private double affordableMealCosts;
-    private double heartyMealCosts;
+    private static final double affordableMealCosts = 2.50;
+    private static final double heartyMealCosts = 4.30;
 
     public PaymentTerminal() {
         this.money = 1000;
         this.affordableMeals = 0;
         this.heartyMeals = 0;
-        this.affordableMealCosts = 2.50;
-        this.heartyMealCosts = 4.30;
+    }
+
+    public void addMoneyToCard(PaymentCard card, double sum) {
+        if (sum > 0) {
+            this.money += sum;
+            card.addMoney(sum);
+        }
     }
 
     public double eatAffordably(double payment) {
