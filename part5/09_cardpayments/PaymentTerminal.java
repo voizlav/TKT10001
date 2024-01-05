@@ -21,16 +21,16 @@ public class PaymentTerminal {
     }
 
     public double eatAffordably(double payment) {
-        if (payment >= this.affordableMealCosts) {
-            this.money += this.affordableMealCosts;
+        if (payment >= affordableMealCosts) {
+            this.money += affordableMealCosts;
             this.affordableMeals++;
-            return payment - this.affordableMealCosts;
+            return payment - affordableMealCosts;
         }
         return payment;
     }
 
     public boolean eatAffordably(PaymentCard card) {
-        if (card.takeMoney(this.affordableMealCosts)) {
+        if (card.takeMoney(affordableMealCosts)) {
             this.affordableMeals++;
             return true;
         }
@@ -38,16 +38,16 @@ public class PaymentTerminal {
     }
 
     public double eatHeartily(double payment) {
-        if (payment >= this.heartyMealCosts) {
-            this.money += this.heartyMealCosts;
+        if (payment >= heartyMealCosts) {
+            this.money += heartyMealCosts;
             this.heartyMeals++;
-            return payment - this.heartyMealCosts;
+            return payment - heartyMealCosts;
         }
         return payment;
     }
 
     public boolean eatHeartily(PaymentCard card) {
-        if (card.takeMoney(this.heartyMealCosts)) {
+        if (card.takeMoney(heartyMealCosts)) {
             this.heartyMeals++;
             return true;
         }
