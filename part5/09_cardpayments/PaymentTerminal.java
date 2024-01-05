@@ -4,31 +4,49 @@ public class PaymentTerminal {
     private double money;
     private int affordableMeals;
     private int heartyMeals;
+    private double affordableMealCosts;
+    private double heartyMealCosts;
 
     public PaymentTerminal() {
         this.money = 1000;
         this.affordableMeals = 0;
         this.heartyMeals = 0;
+        this.affordableMealCosts = 2.50;
+        this.heartyMealCosts = 4.30;
     }
 
     public double eatAffordably(double payment) {
-        double affordableMealCosts = 2.50;
-        if (payment < affordableMealCosts) {
-            return payment;
+        if (payment >= this.affordableMealCosts) {
+            this.money += this.affordableMealCosts;
+            this.affordableMeals++;
+            return payment - this.affordableMealCosts;
         }
-        this.money += affordableMealCosts;
-        this.affordableMeals++;
-        return payment - affordableMealCosts;
+        return payment;
+    }
+
+    public boolean eatAffordably(PaymentCard card) {
+        if (card.takeMoney(this.affordableMealCosts)) {
+            this.affordableMeals++;
+            return true;
+        }
+        return false;
     }
 
     public double eatHeartily(double payment) {
-        double heartyMealCosts = 4.30;
-        if (payment < heartyMealCosts) {
-            return payment;
+        if (payment >= this.heartyMealCosts) {
+            this.money += this.heartyMealCosts;
+            this.heartyMeals++;
+            return payment - this.heartyMealCosts;
         }
-        this.money += heartyMealCosts;
-        this.heartyMeals++;
-        return payment - heartyMealCosts;
+        return payment;
+    }
+
+    public boolean eatHeartily(PaymentCard card) {
+        if (card.takeMoney(this.heartyMealCosts)) {
+            this.heartyMeals++;
+            return true;
+        }
+        return false;
     }
 
     @Override
