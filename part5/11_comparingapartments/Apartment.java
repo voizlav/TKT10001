@@ -31,4 +31,8 @@ public class Apartment {
     public int priceDifference(Apartment compared) {
         return Math.abs(this.getTotalPrice() - compared.getTotalPrice());
     }
+
+    public boolean moreExpensiveThan(Apartment compared) {
+        return this.getTotalPrice() > compared.getTotalPrice();
+    }
 }
