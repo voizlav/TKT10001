@@ -213,7 +213,7 @@
 2. [x] Programming exercise: Health station (3 parts)
 3. [x] Programming exercise: Card payments (4 sections)
 4. [x] Programming exercise: Biggest pet shop
-5. [ ] Programming exercise: Comparing apartments (3 parts)
+5. [x] Programming exercise: Comparing apartments (3 parts)
 6. [ ] Programming exercise: Song
 7. [ ] Programming exercise: Identical twins
 8. [ ] Programming exercise: Books
