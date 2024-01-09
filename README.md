@@ -211,7 +211,7 @@
 #### Objects and references
 1. [x] Programming exercise: NullPointerException
 2. [x] Programming exercise: Health station (3 parts)
-3. [ ] Programming exercise: Card payments (4 sections)
+3. [x] Programming exercise: Card payments (4 sections)
 4. [x] Programming exercise: Biggest pet shop
 5. [ ] Programming exercise: Comparing apartments (3 parts)
 6. [ ] Programming exercise: Song
