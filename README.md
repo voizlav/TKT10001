@@ -216,7 +216,7 @@
 5. [x] Programming exercise: Comparing apartments (3 parts)
 6. [x] Programming exercise: Song
 7. [x] Programming exercise: Identical twins
-8. [ ] Programming exercise: Books
+8. [x] Programming exercise: Books
 9. [ ] Programming exercise: Archive (2 parts)
 10. [ ] Programming exercise: Dating app (3 parts)
 11. [ ] Programming exercise: Money (3 parts)
